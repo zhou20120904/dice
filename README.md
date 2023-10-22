@@ -3,7 +3,7 @@ This is a simulator to simulate dice.
 First,import my model.
 
 ```apache
-from dice import Dice
+from dice-simulator import Dice
 ```
 
 To roll dice,using code here.
